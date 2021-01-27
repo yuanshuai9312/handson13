@@ -1,0 +1,11 @@
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.AddForm.resources
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.MainForm.resources
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.SearchForm.resources
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+D:\新建文件夹 (3)\HandsOn13-master\Project\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
